@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+the flyest kid on da block
 
 ### More Information
 
